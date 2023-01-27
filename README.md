@@ -32,6 +32,7 @@ train.txt/test.txt and train_gt.txt/test_gt.txt contain images and masks for tra
 Coming soon.
 
 <h5>Citation:</h5>
+
 ```
 @inproceedings{za2022wtatla,
   author={Zampokas, Georgios and Skartados, Evangelos and Alexiou, Dimitrios and Tsiakas, Kosmas and Tzanakis, Ioannis and Roussos, Nikolaos and Giakoumis,   Dimitrios and Kostavelis, Ioannis and Bouganis, Christos-Savvas and Tzovaras, Dimitrios},
